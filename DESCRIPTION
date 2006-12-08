@@ -1,0 +1,12 @@
+Package: localmds
+Type: Package
+Title: Local MDS
+Version: 0.1.0
+Date: 2006-09-23
+Author: Lisha Chen <lishachen2006@gmail.com>, Hadley Wickham <h.wickham@gmail.com>
+Maintainer: Hadley Wickham <h.wickham@gmail.com>
+Description: 
+Depends: R (>= 2.3), reshape, rggobi (>= 2.1.4), ggplot
+Suggests: graph, gWidgets
+LazyData: yes
+License: GPL
